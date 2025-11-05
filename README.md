@@ -1,4 +1,4 @@
-# Hi there, I'm Greenblox781 👋 AKA Nicholas Daniel
+# Hi there, I'm Nicholas, but online I call myself Greenblox, or Green for short
 
 ## About Me
 
