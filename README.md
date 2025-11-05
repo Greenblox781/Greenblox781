@@ -14,6 +14,7 @@ I'm an aspiring programmer currently learning at **NGI Witbank**, passionate abo
 
 ## Featured Repositories
 
+- **[Konnecta](https://github.com/Greenblox781/Konnecta)** - First big project, a skills marketplace - WIP
 - **[assorted-mini-projects1](https://github.com/Greenblox781/assorted-mini-projects1)** - Collection of HTML mini projects done for classwork
 - **[assorted-mini-projects2](https://github.com/Greenblox781/assorted-mini-projects2)** - JavaScript-based mini projects from my coursework
 
