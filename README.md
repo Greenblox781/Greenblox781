@@ -1,4 +1,4 @@
-# Hi there, I'm Nicholas, but online I call myself Greenblox, or Green for short
+# Hi there, I'm Nicholas
 
 ## About Me
 
