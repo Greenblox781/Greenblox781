@@ -6,24 +6,18 @@ I'm an aspiring programmer currently learning at **NGI Witbank**, passionate abo
 
 ## What I'm Working On
 
-- Learning programming fundamentals and best practices
-- Building mini projects for classwork and personal growth
-- Exploring web development with HTML and JavaScript
-- Experimenting with new technologies and frameworks
-
+-  Advanced Python
+-  Azure AI & Azure Databases
+-  Advanced JavaScript (coming up next)
 
 ## Featured Repositories
 
-- **[Konnecta](https://github.com/Greenblox781/Konnecta)** - First big project, a skills marketplace - WIP
-- **[assorted-mini-projects1](https://github.com/Greenblox781/assorted-mini-projects1)** - Collection of HTML mini projects done for classwork
-- **[assorted-mini-projects2](https://github.com/Greenblox781/assorted-mini-projects2)** - JavaScript-based mini projects from my coursework
+- **[Konnecta](https://github.com/Greenblox781/Konnecta)** — A skills marketplace app (WIP)
+- **[cryptography](https://github.com/Greenblox781/cryptography)** — Encoders and decoders for various cryptography methods
+- **[project_vaultline](https://github.com/Greenblox781/project_vaultline)** — In-universe webpages for a creative project
+- **[assorted-mini-projects1](https://github.com/Greenblox781/assorted-mini-projects1)** & **[assorted-mini-projects2](https://github.com/Greenblox781/assorted-mini-projects2)** — HTML and JavaScript classwork projects
 
-## Goals
 
-- [ ] Master web development fundamentals
-- [ ] Build a full-stack application
-- [ ] Contribute to open-source projects
-- [ ] Learn new programming languages and frameworks
 
 ## 📊 GitHub Stats
 
