@@ -2,13 +2,16 @@
 
 ## About Me
 
-I'm an aspiring programmer currently learning at **NGI Witbank**, passionate about building projects and expanding my coding skills. I'm on a journey to become a proficient developer, one line of code at a time!
+I'm a developer interested in software development, web technologies, and artificial intelligence.
 
-## What I'm Working On
+I enjoy learning through practical projects, experimenting with new technologies, and solving problems through code. My interests range from Python development and automation to frontend development and AI.
 
--  Advanced Python
--  Azure AI & Azure Databases
--  Advanced JavaScript (coming up next)
+## Currently Exploring
+
+- **Python:** Software development, automation, and AI libraries.
+- **Web Development:** HTML, CSS, JavaScript, and responsive design.
+- **Artificial Intelligence:** Machine learning, AI tools, and local language models.
+- **Development Tools:** Git, GitHub, and open-source technologies.
 
 ## Featured Repositories
 
